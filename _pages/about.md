@@ -39,7 +39,7 @@ Publications
 ======
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)  
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He  
-   First author. AgentXUM: When Large Language Models Meet Strict Logical Reasoning. arXiv preprint. A GitHub code repository is available for this work. [Details](publication/2025-synlogic/)
+   First author. arXiv preprint. A GitHub code repository is available for this work. [Details](publication/2025-synlogic/)
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)  
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He  
